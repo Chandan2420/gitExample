@@ -1,6 +1,6 @@
 import React from 'react';
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
-import StudentSignup from './components/studentsignup';
+import StudentSignup from './components/StudentSignup';
 import InstructorSignup from './components/InstructorSignup';
 import Login from './components/Login';
 
